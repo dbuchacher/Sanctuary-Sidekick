@@ -1,0 +1,10 @@
+#include core\core.ahk
+#include core\gdip.ahk
+#include core\include.ahk
+#include core\test1.ahk
+#include core\test2.ahk
+#include plugins\potionMove.ahk
+#include plugins\potionUse.ahk
+#include plugins\skills.ahk
+#include plugins\status.ahk
+#include plugins\takePictures.ahk
